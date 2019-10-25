@@ -1,0 +1,35 @@
+.button-submit{
+  margin: auto;
+  border:none;
+  border-radius: 100px;
+  background-color: #007bff;
+  color:#fff;
+  width: 300px;
+}
+.button-submit:focus, .button-modal:focus, .button-post:focus{
+  outline: none;
+}
+.input{
+  width: 100%;
+  padding: 10px;
+  border:1px solid #ccc;
+}
+.button-modal{
+  padding: 10px;
+  width: 180px;
+  color:#fff;
+  background-color: #007bff;
+  border:none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.button-post{
+  border: none;
+  background-color: #007bff;
+  font-weight: bold;
+  color:#fff;
+  padding: 10px;
+  width: 78px;
+  height: 78px;
+  border-radius: 50%;
+}
